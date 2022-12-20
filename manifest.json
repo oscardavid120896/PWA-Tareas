@@ -1,0 +1,16 @@
+{
+    "short_name": "PWA-Tareas",
+    "name": "PWA-Tareas",
+    "description": "Esta es una aplicación web instalable y sin conexión que utiliza el trabajador para almacenar datos en caché.",
+    "display": "standalone",
+    "icons": [
+      {
+        "src": "assets/image/icon-144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      }
+    ],
+    "start_url": ".",
+    "theme_color": "#3F51B5"
+  }
+  
